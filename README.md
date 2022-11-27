@@ -430,7 +430,19 @@ In the media query, you'll need to figure out how to make your SVG line up at th
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>[MDN: Advanced form styling](https://developer.mozilla.org/en-US/docs/Learn/Forms/Advanced_form_styling)</li><li>[MDN: UI pseudo-classes](https://developer.mozilla.org/en-US/docs/Learn/Forms/UI_pseudo-classes)</li><li>[appearance](https://developer.mozilla.org/en-US/docs/Web/CSS/appearance)</li></ul> |
 
-More styling will be added in part two of this assignment.
+After viewing styled form examples in class, or forms you see online, style your form, including creating custom radio buttons and checkboxes.
+
+I'll leave much of the styling up to you. The most difficult items to style are the radio buttons and checkboxes, so I'll provide instructions for those
+
+Also, don't forget to style your submit button. You can simply give it `class=button` to use the same styling as the other buttons on your website).
+
+| :tv: Watch this video to see to style checkboxes and radio buttons                                                                                                                                                                                                                                                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Custom checkboxes and radio buttons with grid](https://www.youtube.com/watch?v=pvqkc4GWqSw&ab_channel=ProfBurton) - it's about 39 minutes long, but you can 1.25x or 1.5x if you would like. I added chapters to the video, so you can re-watch any segments. I also provide a link to the repo I created in the video. |
+
+### P.S.
+
+I usually require you to create custom `:active`, `:focus`, and `:hover` states for your form elements, but, because of time, I'm not including it this semester. I recommend you try it out though, as it's a great way to practice CSS and learn more about customizing forms.
 
 ## :rocket: Publish on Github Pages
 
@@ -525,6 +537,6 @@ MAIN MENU
 - explicit label used with a for attribute linking it to a form element
 ```
 
-| :heavy_check_mark: You will also be graded on the following items from the rubric:                                                                                                                                                        |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>Correct grid setup for form</li><li>Responsive form</li><li>Responsive flexbox with SVG and form</li><li>SVG is responsive (resizes)</li><li>The general appearance of your web page – proper spacing, font size, etc. </li></ul> |
+| :heavy_check_mark: You will also be graded on the following items from the rubric:                                                                                                                                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>Correct grid setup for form</li><li>Responsive form</li><li>Responsive flexbox with SVG and form</li><li>SVG is responsive (resizes)</li><li>Form is styled, including custom checkboxes and radio buttons</li><li>The general appearance of your web page – proper spacing, font size, etc. </li></ul> |
